@@ -4,6 +4,8 @@ R palette for plotting compatible with UW Madison themed presentations.
 Colors taken from theming in PowerPoint templates, available here: 
 https://brand.wisc.edu/multimedia/powerpoint/
 
+`madison_categorical` provides 12 distinct colors, primarily intended for categorical plots. 
+
 # Example
 ```
 library("ggpubr")
