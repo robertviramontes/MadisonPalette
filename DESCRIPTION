@@ -1,0 +1,10 @@
+Package: MadisonPalette
+Type: Package
+Title: Provides color palette based on UW Madison themes.
+Version: 0.1.0
+Authors@R: person("Robert", "Viramontes", email="rviramontes24@gmail.com",
+  role = c("aut", "cre"))
+Description: Provide color palette for R compatible with UW-Madison theming. 
+License: MIT
+Encoding: UTF-8
+LazyData: true
